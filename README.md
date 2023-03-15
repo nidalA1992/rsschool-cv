@@ -1,2 +1,3 @@
 # rsschool-cv
-RS-School education project
+
+https://nidalA1992.github.io/rsschool-cv/cv
